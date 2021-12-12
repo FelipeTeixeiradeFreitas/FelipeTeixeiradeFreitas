@@ -1,9 +1,4 @@
 
-<!--
-**FelipeTeixeiradeFreitas/FelipeTeixeiradeFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 
