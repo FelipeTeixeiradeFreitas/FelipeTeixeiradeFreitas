@@ -1,10 +1,10 @@
+Hi there! 👋
+About Me
+I'm an Electrical Engineer with experience in industrial electrical projects and a passion for programming. I enjoy using programming to enhance the day-to-day tasks of project engineers. I started with VBA and later moved to Python. Currently, I primarily use Django and have full-stack knowledge for web development (HTML and JS) with Python in the backend and SQL.
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-
-- 🤔 I’m looking for new opportunities that help me to learn more about programming languages, especially envolving continuos improvenment
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about my Graduation Final Project "Análise do Mercado Livre de Energia para Adesão dos Consumidores em Baixa Tensão"
-- 📫 How to reach me: by email felipe.freitas1996@hotmail.com, phone: +1 (418) 261-5753 or LinkedIn https://www.linkedin.com/in/felipe-teixeira-freitas/
-- 😄 Pronouns: You can call me Teixeira or Felipe
-- 🚀 Visual Basic / Python / C 
+Skills
+* Electrical Engineering
+* Programming (Python, VBA)
+* Web Development (Django, HTML, JavaScript)
+* Full-Stack Development
+* SQL
